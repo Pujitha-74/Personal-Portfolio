@@ -1,3 +1,4 @@
+# Personal Portfolio Webpage
 # Sarah Chen - Full Stack Developer Portfolio
 
 A modern, responsive portfolio website showcasing my work as a full-stack developer. Built with pure HTML, CSS, and JavaScript to demonstrate clean code practices and responsive design principles.
